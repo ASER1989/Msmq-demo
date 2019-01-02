@@ -1,0 +1,13 @@
+K:\msmqTest\MessageSender\bin\Debug\MessageSender.exe.config
+K:\msmqTest\MessageSender\bin\Debug\MessageSender.exe
+K:\msmqTest\MessageSender\bin\Debug\MessageSender.pdb
+K:\msmqTest\MessageSender\obj\Debug\MessageSender.csprojAssemblyReference.cache
+K:\msmqTest\MessageSender\obj\Debug\MessageSender.Form1.resources
+K:\msmqTest\MessageSender\obj\Debug\MessageSender.Properties.Resources.resources
+K:\msmqTest\MessageSender\obj\Debug\MessageSender.csproj.GenerateResource.cache
+K:\msmqTest\MessageSender\obj\Debug\MessageSender.csproj.CoreCompileInputs.cache
+K:\msmqTest\MessageSender\obj\Debug\MessageSender.csproj.CopyComplete
+K:\msmqTest\MessageSender\obj\Debug\MessageSender.exe
+K:\msmqTest\MessageSender\obj\Debug\MessageSender.pdb
+K:\msmqTest\MessageSender\bin\Debug\MsQueue.dll
+K:\msmqTest\MessageSender\bin\Debug\MsQueue.pdb

@@ -1,0 +1,6 @@
+K:\msmqTest\MsQuque\bin\Debug\MsQuque.dll
+K:\msmqTest\MsQuque\bin\Debug\MsQuque.pdb
+K:\msmqTest\MsQuque\obj\Debug\MsQuque.csproj.CoreCompileInputs.cache
+K:\msmqTest\MsQuque\obj\Debug\MsQuque.dll
+K:\msmqTest\MsQuque\obj\Debug\MsQuque.pdb
+K:\msmqTest\MsQuque\obj\Debug\MsQuque.csprojAssemblyReference.cache

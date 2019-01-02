@@ -1,0 +1,13 @@
+K:\msmqTest\msmqReceiver\bin\Debug\msmqReceiver.exe.config
+K:\msmqTest\msmqReceiver\bin\Debug\msmqReceiver.exe
+K:\msmqTest\msmqReceiver\bin\Debug\msmqReceiver.pdb
+K:\msmqTest\msmqReceiver\obj\Debug\msmqReceiver.csprojAssemblyReference.cache
+K:\msmqTest\msmqReceiver\obj\Debug\msmqReceiver.Form1.resources
+K:\msmqTest\msmqReceiver\obj\Debug\msmqReceiver.Properties.Resources.resources
+K:\msmqTest\msmqReceiver\obj\Debug\msmqReceiver.csproj.GenerateResource.cache
+K:\msmqTest\msmqReceiver\obj\Debug\msmqReceiver.csproj.CoreCompileInputs.cache
+K:\msmqTest\msmqReceiver\obj\Debug\msmqReceiver.csproj.CopyComplete
+K:\msmqTest\msmqReceiver\obj\Debug\msmqReceiver.exe
+K:\msmqTest\msmqReceiver\obj\Debug\msmqReceiver.pdb
+K:\msmqTest\msmqReceiver\bin\Debug\MsQueue.dll
+K:\msmqTest\msmqReceiver\bin\Debug\MsQueue.pdb
